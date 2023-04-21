@@ -1,8 +1,8 @@
-## Olá! Eu sou o Bruno Iraê ✋
+## Olá! Eu sou o Bruno Reis ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ira%C3%AA-3112a820a/)
 
-![Irae GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoirae&show_icons=true&theme=dracula)
+![Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoirae&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
