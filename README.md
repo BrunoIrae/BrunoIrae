@@ -14,5 +14,3 @@
 <img align="center" alt="htm15" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="center" alt="htm15" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
-
-Apaixonado por tecnologia, estou no 5° período de Ciência da Computação
